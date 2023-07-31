@@ -1,0 +1,48 @@
+/*es1*/
+.display-4{
+     font-size: 10em; 
+}
+/*es2*/
+.nav span {
+    background-color: blueviolet;
+}
+/*es3*/
+.lead a{
+    color: violet;
+}
+/*es4*/
+.col-md-8 h3 + div{
+    font-size: 0.5em;
+}
+/*es5*/
+.blog-post hr{
+    background-color: red;
+}
+/*es6*/
+.nav span:nth-child(even) {
+    background-color: rgb(78, 225, 65);
+}
+/*es7*/
+.list-unstyled.mb-0{
+    background-color: rgb(185, 199, 36);
+}
+/*es8*/
+.blog-post:nth-of-type(2) .blog-post-meta a {
+    color: rgb(16, 227, 48);
+}
+/*es9*/
+.blog-post:nth-of-type(3) ul li:nth-of-type(2) {
+    color: rgb(17, 4, 118);
+}
+/*es10*/
+.float-right.mb-3.mr-3{
+    color: aqua;
+}
+/*es11*/
+.btn.btn-outline-secondary.disabled{
+    background-color: red;
+}
+/*es12*/
+footer a:nth-of-type(2) {
+    color: rgb(164, 241, 9);
+}
